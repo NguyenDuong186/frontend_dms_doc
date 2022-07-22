@@ -1,0 +1,10 @@
+/* @tailwind base;  */
+@tailwind components;
+@tailwind utilities;
+@import '~antd/dist/antd.css';
+
+body {
+    height: fit-content;
+    min-height: 100vh;
+   background: #f5f5f5;
+}
